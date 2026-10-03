@@ -1,8 +1,9 @@
 # Hi, I'm Peace 👋🏽
 
-### 🔐 Aspiring Cybersecurity & GRC Professional | SOC • Network Security • Incident Response
+### 🔐 Early-Career Cybersecurity Professional | SOC Analysis • Network Security • Incident Response • GRC
 
-I'm an early-career cybersecurity professional building practical experience through hands-on projects, labs, and cybersecurity internship experience.
+I'm an early-career cybersecurity professional developing hands-on experience across SOC operations, threat detection, network security, incident response and GRC.
+My practical work includes building virtual security labs, configuring network segmentation and firewall controls, deploying security monitoring tools, analysing security events, and documenting investigation and remediation approaches
 
 My interests span both the technical and governance sides of cybersecurity, with a particular focus on **SOC Operations, Threat Detection, Incident Response, Network Security, and Governance, Risk & Compliance (GRC).**
 
@@ -21,7 +22,11 @@ I'm continuously developing my cybersecurity skills through practical projects i
 
 ### 📂 Featured Projects
 
-🔎 **SOC & Wazuh Threat Detection Lab**  
+🔎 🛡️ **[SOC & Wazuh Threat Detection Lab](https://github.com/iamdemie12/SOC-Wazuh-Threat-Detection-Lab)**  
+Built a virtual SOC environment using Wazuh, pfSense, Kali Linux, Ubuntu and VirtualBox to explore security monitoring, network segmentation, authentication activity and SOC investigation workflows.
+
+**Skills:** Wazuh • SIEM • pfSense • Linux • Network Segmentation • Security Monitoring • Incident Investigation
+
 🌐 **Network Security & ACL Project**  
 🎣 **Phishing Investigation & Incident Response**  
 🛡️ **Ransomware Incident Response Case Study**  
