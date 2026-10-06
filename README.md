@@ -27,7 +27,7 @@ Built a virtual SOC environment using Wazuh, pfSense, Kali Linux, Ubuntu and Vir
 
 **Skills:** Wazuh • SIEM • pfSense • Linux • Network Segmentation • Security Monitoring • Incident Investigation
 
-🌐 **Network Security & ACL Project**  
+🌐 **[Network Security & ACL Project](https://github.com/iamdemie12/Network-Security-ACL-Lab)**
 🎣 **Phishing Investigation & Incident Response**  
 🛡️ **Ransomware Incident Response Case Study**  
 ⚔️ **Penetration Testing Lab**  
