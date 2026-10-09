@@ -29,7 +29,7 @@ Built a virtual SOC environment using Wazuh, pfSense, Kali Linux, Ubuntu and Vir
 
 🌐 **[Network Security & ACL Project](https://github.com/iamdemie12/Network-Security-ACL-Lab)**
 🎣 **Phishing Investigation & Incident Response**  
-🛡️ **Ransomware Incident Response Case Study**  
+- 🛡️ [Ransomware Incident Response Case Study](https://github.com/iamdemie12/Ransomware-Incident-Response-Lab) 
 ⚔️ **Penetration Testing Lab**  
 📋 **GRC Security Policies Project**  
 🔍 **OSINT Investigation Project**
