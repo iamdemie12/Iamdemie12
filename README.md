@@ -31,7 +31,7 @@ Built a virtual SOC environment using Wazuh, pfSense, Kali Linux, Ubuntu and Vir
 🎣 **Phishing Investigation & Incident Response**  
 - 🛡️ [Ransomware Incident Response Case Study](https://github.com/iamdemie12/Ransomware-Incident-Response-Lab) 
 - 🛠️ [Penetration Testing Lab](https://github.com/iamdemie12/Penetration-Testing-Lab) 
-📋 **GRC Security Policies Project**  
+📋 **[GRC Security Policies & Compliance Framework](https://github.com/iamdemie12/GRC-Security-Policies-Compliance-Framework)** 
 🔍 **OSINT Investigation Project**
 
 ### 🎯 Career Focus
